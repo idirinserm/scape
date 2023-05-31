@@ -1,0 +1,1 @@
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"name": "my feature", "date": "2023-04-15 04:00:13", "array": [1, 2, 3]}}

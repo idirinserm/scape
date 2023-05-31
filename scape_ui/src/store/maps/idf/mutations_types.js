@@ -1,0 +1,1 @@
+export const SET_GEOJSON_DATA = "SET_GEOJSON_DATA";
